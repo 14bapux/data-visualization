@@ -1,4 +1,4 @@
-# data-visualization
+# Data-Visualization
 
 7 Steps of Data Visualization Process
 -------------------------------------
