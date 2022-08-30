@@ -1,5 +1,8 @@
 # Data-Visualization
 
+![7 Steps of Data Visualization Process](https://user-images.githubusercontent.com/104055975/187390106-b98079a7-b161-47b8-9302-cf4943949255.png)
+
+
 7 Steps of Data Visualization Process
 -------------------------------------
 1. Analyse Your Audience
